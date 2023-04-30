@@ -1,0 +1,8 @@
+﻿  IdentStr.cpp
+C:\Users\PC\Desktop\итмо\2 semester\прога\P_30_03_2023\IdentStr.cpp(110,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Stroka.cpp
+C:\Users\PC\Desktop\итмо\2 semester\прога\P_30_03_2023\Stroka.cpp(37,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\PC\Desktop\итмо\2 semester\прога\P_30_03_2023\Stroka.cpp(43,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\PC\Desktop\итмо\2 semester\прога\P_30_03_2023\IdentStr.cpp(116): warning C4715: IdentStr::operator=: значение возвращается не при всех путях выполнения
+  P_30_03_2023.vcxproj -> C:\Users\PC\Desktop\итмо\2 semester\прога\P_30_03_2023\x64\Debug\P_30_03_2023.exe
